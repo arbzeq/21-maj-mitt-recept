@@ -8,9 +8,16 @@ html {
     display: inline;
 }
 
+
 body {
     background-color: rgb(222, 203, 203);
 }
 footer, header {
     background-color: rgb(190, 135, 135);
+}
+
+section {
+    border-style: solid;
+    border-width: 1mm;
+    border-color: black;
 }
