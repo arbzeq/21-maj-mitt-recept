@@ -1,0 +1,16 @@
+html {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.gulashpictures {
+    width: 20%;
+    height: 200px;
+    display: inline;
+}
+
+body {
+    background-color: rgb(222, 203, 203);
+}
+footer, header {
+    background-color: rgb(190, 135, 135);
+}
